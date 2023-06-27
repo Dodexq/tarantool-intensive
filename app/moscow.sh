@@ -1,0 +1,4 @@
+TT_INSTANCE_UUID=bbbbbbbb-0000-0000-0000-000000000001 \
+TT_INSTANCE_NAME=moscow \
+TT_HTTP_PORT=8082 \
+tarantool init.lua
